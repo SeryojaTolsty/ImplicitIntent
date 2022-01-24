@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ImplicitIntent</string>
+    <string name="hint">write ur text here</string>
+    <string name="send">send message</string>
+    <string name="chooser">Send message via...</string>
 </resources>

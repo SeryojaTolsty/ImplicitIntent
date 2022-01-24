@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ImplicitIntent">
         <activity
-            android:name=".MainActivity"
+            android:name=".CreateMessageActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
